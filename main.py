@@ -1,4 +1,3 @@
-import requests
 import ultralytics
 import os
 import sys
