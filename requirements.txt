@@ -1,0 +1,5 @@
+requests
+ultralytics
+torch
+tkinterdnd2
+pillow
